@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Icons/cir.png</file>
+        <file>Icons/Data_Selection.png</file>
+        <file>Icons/free-form2.png</file>
+        <file>Icons/rec.png</file>
+        <file>Icons/Close4.jpg</file>
+        <file>Icons/Data_Selection2.png</file>
+        <file>Icons/open_dataset.jpg</file>
+        <file>Icons/CNU_logo.png</file>
+        <file>Icons/Cmake..png</file>
+        <file>Icons/cpp.png</file>
+        <file>Icons/HSILOGO3.png</file>
+        <file>Icons/opencv_logo.png</file>
+        <file>Icons/pls.png</file>
+        <file>Icons/preprocess3.png</file>
+        <file>Icons/qt images.png</file>
+    </qresource>
+</RCC>
