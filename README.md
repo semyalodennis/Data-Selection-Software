@@ -7,7 +7,8 @@ This repo provides the software for extracting the region of interest (ROI) from
 - The graphical user interface (GUI) of Data-Selection-Software was designed using Qt designer.       
 - The C++ tools and libraries used for developing the software include; Standard Template C++ Library, Open Computer Vision Library (OpenCV), Geospatial Data Abstraction Library (GDAL)   
 - Vcpkg package manager from Microsoft was used to install the C++ libraries.    
-- The software is fully functional and mainly consists of one main task of extracting ROI from hyperspectral images, and saving the data in a text file (.txt) for further analysis with chemometrics, machine learning, and artificial intelligence techniques. 
+- The software is fully functional and mainly consists of one main task of extracting ROI from hyperspectral images, and saving the data in a text file (.txt) for further analysis with chemometrics, machine learning, and artificial intelligence techniques.
+- Sample data and results are provided in the "Data" and "Results" sub-folders of the Data Selection Software folder
 
 # Installation
 - The Data-Selection-Software is released as a zipped package.
